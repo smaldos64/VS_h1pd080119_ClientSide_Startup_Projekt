@@ -1,0 +1,27 @@
+﻿h2 {
+    background-color : gold;
+    color : brown;
+}
+
+#HeaderDiv h2 {
+    background-color: red;
+    color: black;
+}
+
+.HeaderClass h2 {
+    background-color: yellow;
+    color: blue;
+}
+
+h3 {
+    background-color: blue;
+    color: yellow;
+}
+
+h4 {
+    background-color: blue;
+    color: yellow;
+    font-size: xx-large;
+    font-weight: normal;
+    font-style: italic;
+}

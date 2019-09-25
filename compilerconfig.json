@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "Stylesheet/Less_StyleSheet.css",
+    "inputFile": "Stylesheet/Less_StyleSheet.less"
+  },
+  {
+    "outputFile": "Stylesheet/Sass_StyleSheet.css",
+    "inputFile": "Stylesheet/Sass_StyleSheet.sass"
+  },
+  {
+    "outputFile": "Stylesheet/Sass_StyleSheet1.css",
+    "inputFile": "Stylesheet/Sass_StyleSheet1.sass"
+  }
+]

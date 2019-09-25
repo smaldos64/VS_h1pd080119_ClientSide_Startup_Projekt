@@ -1,0 +1,26 @@
+﻿$BackGroundColor: blue
+$TextColor: red
+
+@mixin Colors ($BackGroundColorArgument : gold, $ColorArgument : brown)
+    background-color : $BackGroundColorArgument
+    color : $ColorArgument
+	
+h2 
+   @include Colors
+
+#HeaderDiv 
+    h2 
+        +Colors(red, black)
+
+.HeaderClass 
+    h2 
+        +Colors(yellow, orange)
+
+h3 
+    background-color: $BackGroundColor
+    color: $TextColor
+
+h4 
+    background-color: $BackGroundColor
+    color: $TextColor
+

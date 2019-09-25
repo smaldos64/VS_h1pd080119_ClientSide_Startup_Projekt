@@ -1,0 +1,11 @@
+﻿.demo-content {
+    padding: 15px;
+    font-size: 18px;
+    min-height: 300px;
+    background-color: yellow;
+    margin-bottom: 10px;
+}
+
+.demo-content.bg-alt {
+    background-color: green;
+}
